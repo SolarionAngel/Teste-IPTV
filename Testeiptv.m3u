@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://cdn.xmltv.br/epg/br.xml.gz
 #EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="https://raw.githubusercontent.com/SolarionAngel/Teste-IPTV/main/Logos/AeE%20Logo.png" group-title="BRAZIL",[BR] A&E FHD
 http://supersonictv.live:8080/968896/903421/84935
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="https://raw.githubusercontent.com/SolarionAngel/Teste-IPTV/main/Logos/ANIMAL-PLANET.jpg" group-title="BRAZIL",[BR] Animal Planet FHD
